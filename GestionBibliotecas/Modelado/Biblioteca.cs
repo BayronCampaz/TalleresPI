@@ -11,5 +11,6 @@ namespace Modelado
         private int num;
         private int nombre;
         private int direccion;
+        private int barrio;
     }
 }
